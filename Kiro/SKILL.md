@@ -1,3 +1,8 @@
+---
+name: ETL Meta Plan
+description: Universal 6-Step ETL Framework for building Databricks/PySpark/Delta Lake pipelines (staging, dimension, and fact tables)
+---
+
 # ETL Meta Plan — Universal 6-Step Framework
 
 > **Version:** 1.1
